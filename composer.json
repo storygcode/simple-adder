@@ -1,0 +1,15 @@
+{
+	"name": "storyg/simple-adder",
+	"type": "libray",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "storyg",
+			"email": "dev@storyg.co"
+		}
+	],
+	"require": {},
+	"autoload": {
+		"psr-4": {"Storyg\\": "src/"}
+	}
+}
